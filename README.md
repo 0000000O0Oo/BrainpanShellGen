@@ -15,7 +15,8 @@ EXAMPLES : .\BrainpanShellGen.exe -t target.com -p 9999 -s shellcode.txt
 ```
 
 You can compile the project with cmake using the following commands :
-```
+```bash
+#Instructions are the same for linux and windows
 cd cmake
 cmake .
 cmake --build . --config Release
