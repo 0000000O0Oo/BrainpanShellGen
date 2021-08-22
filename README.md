@@ -1,4 +1,8 @@
 # Cross Platform Brainpan Shell Generator
+
+**Still need to add a python Shellcode encoder, so we can read it and parse it without problem
+This has been done in the KnowYourMem challenge in defcon 2021.**
+
 I made that for fun, don't ask why i made that now that you know why.
 
 ```
